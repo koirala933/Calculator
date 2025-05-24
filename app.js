@@ -1,4 +1,5 @@
 (function(){
+// tested for git
     let screen = document.querySelector('.screen');
     let buttons = document.querySelectorAll('.btn');
     let clear = document.querySelector('.btn-clear');
